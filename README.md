@@ -76,7 +76,7 @@
     <li>Run the application:</li>
 </ol>
 
-<pre><code>python todo.py
+<pre><code>python main.py
 </code></pre>
 
 <h2>Dependencies</h2>
