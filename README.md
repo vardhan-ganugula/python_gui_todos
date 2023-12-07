@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>To-Do List GUI in Python</title>
-</head>
 <body>
 
 <h1>Project Title</h1>
@@ -22,8 +17,7 @@
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#dependencies">Dependencies</a></li>
     <li><a href="#how-to-contribute">How to Contribute</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+   
 </ul>
 
 <h2>Features</h2>
@@ -59,7 +53,7 @@
 
 <h2>Screenshots</h2>
 
-<img src="screenshots/screenshot.png" alt="To-Do List Screenshot">
+<img src="imgs/todoApp.png" alt="To-Do List Screenshot">
 
 <h2>Getting Started</h2>
 
@@ -75,7 +69,7 @@
     <li>Clone the repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/your-username/todo-list.git
+<pre><code>git clone https://github.com/vardhan-ganugula/python_gui_todos.git
 </code></pre>
 
 <ol start="2">
@@ -104,13 +98,6 @@
     <li>Submit a pull request.</li>
 </ol>
 
-<h2>License</h2>
-
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-<h2>Acknowledgments</h2>
-
-<p>Icon made by <a href="https://www.flaticon.com/authors/author">Author</a> from www.flaticon.com</p>
 
 </body>
 </html>
